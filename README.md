@@ -1,4 +1,4 @@
-# TechnoHacks_EduTech_Task_1-Landing-Page
+# TechnoHacks_EduTecH_Task_1-Landing-Page
 
 
 
